@@ -13,7 +13,3 @@ Happy to collaborate on new projects!
 - Top **1 Webpack** Developer Portugal<br />
 
 [LinkedIn](https://www.linkedin.com/in/abelflopes) | [CodersRank](https://profile.codersrank.io/user/abelflopes/) | [Npm](https://www.npmjs.com/~abelflopes) | [CodePen](https://codepen.io/abelflopes) | [GitHub](https://github.com/abelflopes) | [Website | Portfolio](https://abelflopes.github.io/)
-
-![Github Stats](./stats.svg)
-
-</div>
